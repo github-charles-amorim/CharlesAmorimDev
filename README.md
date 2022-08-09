@@ -15,6 +15,6 @@ Venho me especializando em Java e backend com experiências mais sólidas em est
 
 ##
   
-  ![Snake animation](https://github.com/CharlesAmorimDev/amorim-charles/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/amorim-charles/amorim-charles/blob/output/github-contribution-grid-snake.svg)
 
 </div>
