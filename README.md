@@ -1,6 +1,6 @@
-<h2>Olá, eu sou Charles Amorim</h2>
+<h2>Olá, eu sou Charles</h2>
 
-<p>Engenheiro de software e estudante de análise e desenvolvimento de sistemas, e pós graduado em segurança de informação.
+<p>Engenheiro de software, estudante de análise e desenvolvimento de sistemas e pós graduado em segurança de informação.
 Venho me especializando em Java e backend com experiências mais sólidas em estruturas de dados, algoritmos e programação orientada a objeto (POO).
 <p>Todos os meus projetos pessoais e experiências do qual venho lapidando estão aqui. 
 
