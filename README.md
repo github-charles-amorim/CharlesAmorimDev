@@ -1,7 +1,7 @@
-<h2>Olá, eu sou Charles</h2>
+<h2>Olá, eu sou o Charles</h2>
 
-<p>Engenheiro de software, estudante de análise e desenvolvimento de sistemas e pós graduado em segurança de informação.
-Venho me especializando em Java e backend com experiências mais sólidas em estruturas de dados, algoritmos e programação orientada a objeto (POO).
+<p>Engenheiro de software, estudante de análise e desenvolvimento de sistemas com ampla experiência em processos administrativos.
+Venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO) e testes de unidade automatizados JUnit (TDD).
 <p>Todos os meus projetos pessoais e experiências do qual venho lapidando estão aqui. 
 
 ## 
