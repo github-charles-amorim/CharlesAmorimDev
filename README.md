@@ -1,7 +1,6 @@
 <h2>Olá, eu sou o Charles</h2>
 
-<p>Engenheiro de software, estudante de análise e desenvolvimento de sistemas com ampla experiência em processos administrativos.
-Venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO) e testes de unidade automatizados JUnit (TDD).
+<p>Estou graduando em ciência da computação e venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO) e testes de unidade automatizados JUnit (TDD).
 <p>Todos os meus projetos pessoais e experiências do qual venho lapidando estão aqui. 
 
 ## 
