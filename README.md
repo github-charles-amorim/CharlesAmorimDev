@@ -1,7 +1,6 @@
 <h2>Olá, eu sou o Charles</h2>
 
-<p>Estou graduando em ciência da computação e venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO) e testes de unidade automatizados JUnit (TDD).
-<p>Todos os meus projetos pessoais e experiências do qual venho lapidando estão aqui. 
+<p>Estou me graduando em ciência da computação e venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO), testes de unidade automatizados JUnit (TDD), SOLID e microsserviços Spring Cloud, Security e RabbitMQ.
 
 ## 
 
