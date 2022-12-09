@@ -1,6 +1,8 @@
-<h2>Olá, eu sou o Charles</h2>
+<h2>Bem vindo</h2>
 
-<p>Estou me graduando em ciência da computação e venho me especializando em backend Java com experiências mais sólidas em estruturas de dados, algoritmos, programação orientada a objeto (POO), testes de unidade automatizados JUnit (TDD), SOLID e microsserviços Spring Cloud, Security e RabbitMQ.
+<p>Estagiário de engenharia de software cursando 4° semestre de ciência da computação com experiência no mercado financeiro e atendimento ao público.
+
+Conhecimento de Algoritmos, Lógica de programação, Estruturas de dados, Banco de dados relacional SQL, Programação orientada a objeto POO, Testes de unidade TDD, SOLID, MVC, Spring Framework, RabbitMQ, Angular, HTML, CSS, Javascript, Typescript e Bootstrap. 
 
 ## 
 
