@@ -1,8 +1,6 @@
 <h2>Bem vindo</h2>
 
-<p>Estagiário de engenharia de software cursando 4° semestre de ciência da computação com experiência no mercado financeiro e atendimento ao público.
-
-Conhecimento de Algoritmos, Lógica de programação, Estruturas de dados, Banco de dados relacional SQL, Programação orientada a objeto POO, Testes de unidade TDD, SOLID, MVC, Spring Framework, RabbitMQ, Angular, HTML, CSS, Javascript, Typescript e Bootstrap. 
+<p>Estou cursando 4° semestre de ciência da computação, sou estagiário de engenharia de software atuando com sgbg oracle e sql server no backend c# e frontend angular
 
 ## 
 
